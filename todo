@@ -1,2 +1,5 @@
 Fix issue with servo not rotating correctly with first rotation
 
+Make an alert that alerts if servo does not rotate correctly or doesnt finish rotating
+
+Create a button that pet can push that outputs food

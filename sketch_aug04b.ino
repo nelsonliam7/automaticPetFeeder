@@ -35,7 +35,7 @@ void setup() {
 void loop() {
   t = rtc.getTime();
   Serial.print(t.hour);
-  Serial.print(" hours(h), ")
+  Serial.print(" hours(h), ");
   Serial.print(t.min);
   Serial.print(" minute(m), ");
   Serial.print(t.sec);
